@@ -60,3 +60,4 @@ Copy the example environment files to configure custom ports or endpoints:
 ```bash
 cp .env.example .env
 ```
+# idcard
