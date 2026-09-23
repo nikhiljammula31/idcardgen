@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Production Build Output
+dist/
+*/dist/
+build/
+*/build/
+.vite/
+*/.vite/
+
+# Environment Variables
+.env
+.env.*
+*.env
+!.env.example
+!*/.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Student ID Card Database (Keep tracked)
+!backend/data/id_cards.json

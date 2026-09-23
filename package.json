@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "dependencies": {
+    "jsbarcode": "^3.12.3",
+    "react-barcode": "^1.6.1"
+  }
+}
